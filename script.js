@@ -1,2 +1,2 @@
 var name = "Tanusree";
-print("This is my Git first project");
+print("This is my updated Git project");
